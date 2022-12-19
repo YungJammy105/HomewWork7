@@ -1,6 +1,6 @@
-﻿Console.Write("Enter count columns in array: ");
+﻿Console.Write("Enter count rows in array: ");
 int n = InputNum();
-Console.Write("Enter count rows in array: ");
+Console.Write("Enter count columns in array: ");
 int m = InputNum();
 Console.Write("Enter the minimum value in the array: ");
 int min = InputNum();
