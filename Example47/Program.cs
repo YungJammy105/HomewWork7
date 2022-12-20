@@ -1,4 +1,5 @@
-﻿Console.Write("Enter count rows in array: ");
+﻿Console.Clear();
+Console.Write("Enter count rows in array: ");
 int n = InputNum();
 Console.Write("Enter count columns in array: ");
 int m = InputNum();
